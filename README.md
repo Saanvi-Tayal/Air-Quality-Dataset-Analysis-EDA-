@@ -11,7 +11,7 @@ https://www.kaggle.com/nishantbhadauria/datasetucimlairquality
   <li>Data Visualization</li>
   <li>Summary of extracted patterns and relationships within the datset </li> 
 </ul>
-<h3>Libraries:</h3>
+<h3>Dependencies:</h3>
 <ul>
   <li>Matplotlib</li>
   <li>Plotly</li>
