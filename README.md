@@ -1,6 +1,5 @@
 # Air-Quality-Dataset-Analysis-EDA
 ### Challenge of the Month
-### Extracting Air Quality Insights 
 In this project , I have done an in-depth analysis and visualization on the air quality dataset.The goal is to find the patterns and relationships in the dataset. 
 <br>
 #### Dataset source :
